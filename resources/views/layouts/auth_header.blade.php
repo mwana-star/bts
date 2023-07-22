@@ -21,7 +21,7 @@
 	<link href="../../../../../fonts.googleapis.com/css276c7.css?family=Roboto:wght@400;500&amp;display=swap" rel="stylesheet">
 	<link href="{{ asset('assets/css/app.css')}}" rel="stylesheet">
 	<link href="{{ asset('assets/css/icons.css')}}" rel="stylesheet">
-	<title>{{ $page_title}} - CFtracker</title>
+	<title>Electric Bus Tracking System</title>
 </head>
 
 <body>
