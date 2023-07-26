@@ -1,9 +1,6 @@
-## Carbon Emission Footprint Tracker
+## Stager:Transit Tracking System for Electric Buses 
 
-The Environmental Sustainability Tracker is an innovative platform that enables individuals 
-and communities to track their environmental impact and foster sustainable practices. It 
-integrates carbon footprint calculators, personalized recommendations, and a credit system to 
-raise awareness, provide actionable insights, and incentivize positive environmental change.
+The Electric bus tracker enhances commuter experience in the already chaoitic transport system in Kenya. The Application provides up to date information on current routes based on rea time monitoring capabilities. This enhances the commuter experience. 
 
 ### Installation Instructions - [Local Deployment]
 
@@ -11,7 +8,7 @@ To install, open command prompt and type:
 
 ```bash
 $ cd C://xampp/htdocs/
-$ git clone https://github.com/Peishyy/cftracker.git
+$ git clone https://github.com/mwana/bts.git
 $ cd cftracker
 $ composer update
 $ copy .env.example .env
